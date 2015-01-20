@@ -28,6 +28,7 @@
 			<Item Name="Blob Scoring.vi" Type="VI" URL="../Blob Scoring.vi"/>
 			<Item Name="Error Calculations.vi" Type="VI" URL="../Error Calculations.vi"/>
 			<Item Name="Interpolation.vi" Type="VI" URL="../Interpolation.vi"/>
+			<Item Name="interpolate 1D array.vi" Type="VI" URL="../../2014-Robot/871/Subsystems/interpolate 1D array.vi"/>
 		</Item>
 		<Item Name="Dashboard Main.vi" Type="VI" URL="../Dashboard Main.vi"/>
 		<Item Name="Dependencies" Type="Dependencies">
